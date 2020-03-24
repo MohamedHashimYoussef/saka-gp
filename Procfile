@@ -1,0 +1,1 @@
+web: gunicorn Sakaapi.wsgi --log-file -
